@@ -1,5 +1,5 @@
 # esx-spikes
-This was originally a **QBCore** script. I really liked it so I took time to convert it to ESX. Nothing speical. The orignal **QBCore** verison is linked at the bottom of this README. Uses `bt-target` since I don't use `ox_target`. The video linked is the QBCore verison. It works the same exact way. Enjoy! 
+This was originally a **QBCore** script. I really liked it so I took time to convert it to ESX. Nothing speical. The orignal **QBCore** verison is linked at the bottom of this README. Uses `bt-target` since I don't use `ox_target`. The video linked is the **QBCore** verison. It works the same exact way. Enjoy! 
 
 
 
