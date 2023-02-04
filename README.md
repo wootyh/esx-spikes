@@ -8,10 +8,10 @@ Video link to orignal QBCore verison: https://medal.tv/games/gta-v/clips/OJL0BWd
 Link to original QBCore verison: https://github.com/nxte-development/nx-spikes
 
 This is the item table I use in `ox_inventory/data/items.lua`:                                                                                                           
-`['spikestrip'] = {
-	label = 'Spikestrip',
-	weight = 500,
-	stack = false,
-	close = true,
-	description = 'A spikestrip used to pop tires, wow such pop much amaze.', 
-},`                                                                                                                                                  
+`	['spikestrip'] = {
+		label = 'Spikestrip',
+		weight = 500,
+		stack = false,
+		close = true,
+		description = 'A spikestrip used to pop tires, wow such pop much amaze.',
+	},  `                                                                                                                                    
